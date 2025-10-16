@@ -40,12 +40,15 @@ Arthur S. McMillan³, Michael K. Dougherty⁴⁵, Sarah K. McGill⁴, Ajay S. Gu
 This repository includes code and data supporting the analyses described in the publication.  
 
 ### Dataframes
-- `Item_1_description.csv` — (short explanation of what it contains)  
-- `Item_2_description.csv` — (short explanation of what it contains)  
+- `20240830_bothModes_FMT_CL_M1_WeightandTICNorm_updated_2.xlsx` — Lipid weight and TIC normalized lipid data
+- `Pathways_Category_Key.xlsx` — categorizations of humann-derived pathways 
+- `lipids_sampleID` — key to link lipids to metadata 
+- `lipids_to_class_key.xlsx` — links lipid species to classes
+- `metadata.xlsx` — metadata associated with samples
+- `pathabundance_merged_cpm.tsv` — metaphlan output 
 
 ### Code
-- `Code_1_description.R` — (e.g., preprocessing or statistical analysis)  
-- `Code_2_description.R` — (e.g., visualization or figure generation)  
+- `FMT_Lipids_Paper_Analyses_Script_10162025.R` — input, processing, analyses, and figure generation associated with this paper 
 
 ---
 
